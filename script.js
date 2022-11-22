@@ -1,6 +1,7 @@
 /*
 External Js
 
+https://www.w3.org/TR/WAI/ARIA/apg/example-index/arousel/js/carousel-prev-next.js
 
 https://www.w3.org/TR/wai-aria-practices/examples/carousel/js/carouselItem.js
 
